@@ -18,6 +18,8 @@ Mac App Storeの<a href="http://www.apple.com/itunes/affiliates/resources/docume
 
 ##スクリーンショット
 
+![image](https://raw.github.com/veadar/MAS-Helper/master/MAS_Helper.jpg)
+
 ##テンプレート中に使える変数一覧
 
 返ってくるJSONの値とほぼ同じ。
